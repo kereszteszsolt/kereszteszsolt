@@ -1,6 +1,6 @@
 <table style="width: 100%; border: 0;">
   <tr>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <div style="display: flex; align-items: center;">
           <img src="icons/youtube-color-icon.png" alt="YouTube Icon" style="margin-right: 8px;" />
@@ -9,7 +9,7 @@
         <div style="font-size: 0.9em; color: #888; margin-top: 2px;">Short, concise, and easy-to-understand self-improvement and STEM content in Hungarian.</div>
       </div>
     </td>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <div style="display: flex; align-items: center;">
           <img src="icons/youtube-color-icon.png" alt="YouTube Icon" style="margin-right: 8px;" />
@@ -20,7 +20,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <div style="display: flex; align-items: center;">
           <img src="icons/tiktok-square-color-icon.png" alt="TikTok Icon" style="margin-right: 8px;" />
@@ -29,7 +29,7 @@
         <div style="font-size: 0.9em; color: #888; margin-top: 2px;">Short, concise, and easy-to-understand self-improvement and STEM content in Hungarian.</div>
       </div>
     </td>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <div style="display: flex; align-items: center;">
           <img src="icons/tiktok-square-color-icon.png" alt="TikTok Icon" style="margin-right: 8px;" />
@@ -40,7 +40,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <div style="display: flex; align-items: center;">
           <img src="icons/linkedin-app-icon.png" alt="LinkedIn Icon" style="margin-right: 8px;" />
@@ -49,7 +49,7 @@
         <div style="font-size: 0.9em; color: #888; margin-top: 2px;">Placeholder text</div>
       </div>
     </td>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <div style="display: flex; align-items: center;">
           <img src="icons/x-social-media-logo-icon.png" alt="X (Twitter) Icon" style="margin-right: 8px;" />
@@ -60,7 +60,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <div style="display: flex; align-items: center;">
           <img src="icons/linktree-logo-icon.png" alt="Linktree Icon" style="margin-right: 8px;" />
@@ -69,7 +69,7 @@
         <div style="font-size: 0.9em; color: #888; margin-top: 2px;">Placeholder text</div>
       </div>
     </td>
-    <td>
+    <td style="width: 50%; vertical-align: top;">
       <div style="display: flex; flex-direction: column; align-items: flex-start;">
         <div style="display: flex; align-items: center;">
           <img src="icons/buy-me-coffee-icon.png" alt="Buy Me A Coffee Icon" style="margin-right: 8px;" />
