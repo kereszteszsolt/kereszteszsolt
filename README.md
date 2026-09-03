@@ -41,7 +41,7 @@
 
 <h2 align="center">Products</h2>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top" title="A local-first new tab workspace for organizing links into screens, groups, and folders with configurable search, icons, and backgrounds.">
       <a href="https://pinusmaximus.com/"><img src="https://pinusmaximus.com/favicon.svg" alt="Pinus Maximus icon" width="128" height="128"></a><br>
