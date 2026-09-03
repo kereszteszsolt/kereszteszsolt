@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Minesweeper project preview</title>
+  <desc id="desc">A calm green project preview with a Minesweeper grid, mine, flag, and numbered cells.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4f7ef"/>
+      <stop offset="0.58" stop-color="#e1eadc"/>
+      <stop offset="1" stop-color="#b2c8b8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="188" y1="124" x2="1012" y2="636" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf5ec"/>
+    </linearGradient>
+    <filter id="softShadow" x="108" y="66" width="984" height="650" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="28" flood-color="#173528" flood-opacity="0.16" stdDeviation="28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#surface)"/>
+  <g filter="url(#softShadow)">
+    <rect x="188" y="124" width="824" height="512" rx="30" fill="url(#panel)" stroke="#b8cdbc" stroke-width="2"/>
+    <rect x="188" y="124" width="824" height="60" rx="30" fill="#d8e6d4"/>
+    <circle cx="232" cy="154" r="9" fill="#4b7a63"/>
+    <circle cx="262" cy="154" r="9" fill="#7aa68c"/>
+    <circle cx="292" cy="154" r="9" fill="#abc6ad"/>
+    <rect x="346" y="143" width="380" height="22" rx="11" fill="#f8fbf6"/>
+  </g>
+  <g transform="translate(350 218)">
+    <rect width="500" height="360" rx="24" fill="#f8fbf6" stroke="#b9cebd" stroke-width="2"/>
+    <g fill="#e1ecdf" stroke="#c4d7c6" stroke-width="2">
+      <rect x="34" y="30" width="80" height="72" rx="8"/>
+      <rect x="122" y="30" width="80" height="72" rx="8"/>
+      <rect x="210" y="30" width="80" height="72" rx="8"/>
+      <rect x="298" y="30" width="80" height="72" rx="8"/>
+      <rect x="386" y="30" width="80" height="72" rx="8"/>
+      <rect x="34" y="110" width="80" height="72" rx="8"/>
+      <rect x="122" y="110" width="80" height="72" rx="8"/>
+      <rect x="210" y="110" width="80" height="72" rx="8"/>
+      <rect x="298" y="110" width="80" height="72" rx="8"/>
+      <rect x="386" y="110" width="80" height="72" rx="8"/>
+      <rect x="34" y="190" width="80" height="72" rx="8"/>
+      <rect x="122" y="190" width="80" height="72" rx="8"/>
+      <rect x="210" y="190" width="80" height="72" rx="8"/>
+      <rect x="298" y="190" width="80" height="72" rx="8"/>
+      <rect x="386" y="190" width="80" height="72" rx="8"/>
+      <rect x="34" y="270" width="80" height="60" rx="8"/>
+      <rect x="122" y="270" width="80" height="60" rx="8"/>
+      <rect x="210" y="270" width="80" height="60" rx="8"/>
+      <rect x="298" y="270" width="80" height="60" rx="8"/>
+      <rect x="386" y="270" width="80" height="60" rx="8"/>
+    </g>
+    <g fill="#4b7a63" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" text-anchor="middle">
+      <text x="74" y="76">1</text>
+      <text x="250" y="76">2</text>
+      <text x="426" y="76">1</text>
+      <text x="162" y="156">2</text>
+      <text x="338" y="156">3</text>
+      <text x="74" y="236">1</text>
+      <text x="250" y="236">2</text>
+      <text x="426" y="236">1</text>
+    </g>
+    <g transform="translate(162 66)" fill="#2f6a4d" stroke="#2f6a4d" stroke-linecap="round">
+      <circle r="18"/>
+      <path d="M0-30v12M0 18v12M-30 0h12M18 0h12M-21-21l9 9M12 12l9 9M21-21l-9 9M-12 12l-9 9" stroke-width="8"/>
+    </g>
+    <g transform="translate(408 116)">
+      <path d="M0 0v54" fill="none" stroke="#2f6a4d" stroke-width="8" stroke-linecap="round"/>
+      <path d="M4 4h42l-12 15 12 15H4z" fill="#4b7a63"/>
+      <rect x="-10" y="52" width="32" height="8" rx="4" fill="#2f6a4d"/>
+    </g>
+    <circle cx="338" cy="226" r="18" fill="#7aa68c"/>
+    <path d="M338 194v64M306 226h64M315 203l46 46M361 203l-46 46" stroke="#7aa68c" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

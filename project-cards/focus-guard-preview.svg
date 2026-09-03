@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Focus Guard product preview</title>
+  <desc id="desc">A calm green Focus Guard shield mark on a structured browser-extension preview surface.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4f7ef"/>
+      <stop offset="0.58" stop-color="#dfe9dc"/>
+      <stop offset="1" stop-color="#aec8b5"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="190" y1="144" x2="1010" y2="616" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf5ee"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="600" y1="226" x2="600" y2="526" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4b7a63"/>
+      <stop offset="1" stop-color="#1f4d39"/>
+    </linearGradient>
+    <filter id="softShadow" x="120" y="90" width="960" height="590" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="28" flood-color="#163528" flood-opacity="0.16" stdDeviation="28"/>
+    </filter>
+    <mask id="focusGuardCutout">
+      <rect width="1200" height="760" fill="#ffffff"/>
+      <rect x="540" y="315" width="22" height="104" rx="5" fill="#000000"/>
+      <rect x="540" y="315" width="62" height="22" rx="5" fill="#000000"/>
+      <rect x="540" y="358" width="50" height="22" rx="5" fill="#000000"/>
+      <rect x="620" y="350" width="22" height="104" rx="5" fill="#000000"/>
+      <rect x="620" y="350" width="56" height="22" rx="5" fill="#000000"/>
+      <rect x="620" y="432" width="56" height="22" rx="5" fill="#000000"/>
+      <rect x="653" y="402" width="22" height="52" rx="5" fill="#000000"/>
+      <rect x="642" y="402" width="33" height="22" rx="5" fill="#000000"/>
+    </mask>
+  </defs>
+  <rect width="1200" height="760" fill="url(#surface)"/>
+  <g filter="url(#softShadow)">
+    <rect x="190" y="144" width="820" height="472" rx="28" fill="url(#panel)" stroke="#b7cdbd" stroke-width="2"/>
+    <rect x="190" y="144" width="820" height="58" rx="28" fill="#d5e6d8"/>
+    <circle cx="232" cy="173" r="9" fill="#4b7a63"/>
+    <circle cx="262" cy="173" r="9" fill="#7aa68c"/>
+    <circle cx="292" cy="173" r="9" fill="#abc6ad"/>
+    <rect x="348" y="162" width="430" height="22" rx="11" fill="#f8fbf6"/>
+    <rect x="314" y="252" width="220" height="26" rx="13" fill="#d1e2d3"/>
+    <rect x="314" y="298" width="160" height="18" rx="9" fill="#b8cfbd"/>
+    <rect x="314" y="331" width="198" height="18" rx="9" fill="#c7dbc9"/>
+    <rect x="314" y="364" width="132" height="18" rx="9" fill="#d7e5d8"/>
+    <rect x="704" y="260" width="182" height="20" rx="10" fill="#c4d9c8"/>
+    <rect x="704" y="304" width="142" height="18" rx="9" fill="#d5e5d7"/>
+    <rect x="704" y="338" width="196" height="18" rx="9" fill="#dceadd"/>
+    <rect x="704" y="396" width="146" height="44" rx="12" fill="#4b7a63"/>
+  </g>
+  <path fill="url(#shield)" mask="url(#focusGuardCutout)" d="M600 226 696 260v79c0 69.74-39.12 118.42-96 156-56.88-37.58-96-86.26-96-156v-79l96-34Z"/>
+  <path d="M600 226 696 260v79c0 69.74-39.12 118.42-96 156-56.88-37.58-96-86.26-96-156v-79l96-34Z" fill="none" stroke="#123426" stroke-opacity="0.18" stroke-width="8"/>
+</svg>

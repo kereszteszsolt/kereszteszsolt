@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">CrownGrid project preview</title>
+  <desc id="desc">A calm green project preview with a puzzle grid and queen marker.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5f7ef"/>
+      <stop offset="0.62" stop-color="#e2eadb"/>
+      <stop offset="1" stop-color="#b4c9b1"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="204" y1="132" x2="996" y2="628" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf5ec"/>
+    </linearGradient>
+    <filter id="softShadow" x="126" y="74" width="948" height="626" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="28" flood-color="#173728" flood-opacity="0.16" stdDeviation="28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#surface)"/>
+  <g filter="url(#softShadow)">
+    <rect x="204" y="132" width="792" height="496" rx="30" fill="url(#panel)" stroke="#b8cdbc" stroke-width="2"/>
+    <rect x="204" y="132" width="792" height="60" rx="30" fill="#d8e6d4"/>
+    <circle cx="248" cy="162" r="9" fill="#4b7a63"/>
+    <circle cx="278" cy="162" r="9" fill="#7aa68c"/>
+    <circle cx="308" cy="162" r="9" fill="#abc6ad"/>
+    <rect x="360" y="151" width="330" height="22" rx="11" fill="#f8fbf6"/>
+  </g>
+  <g transform="translate(394 238)">
+    <rect width="412" height="312" rx="24" fill="#f8fbf6" stroke="#b9cebd" stroke-width="2"/>
+    <g stroke="#c7dbc9" stroke-width="2">
+      <path d="M103 0v312M206 0v312M309 0v312M0 78h412M0 156h412M0 234h412"/>
+    </g>
+    <rect x="2" y="2" width="101" height="76" fill="#dcead8"/>
+    <rect x="105" y="80" width="101" height="76" fill="#eef5ec"/>
+    <rect x="208" y="158" width="101" height="76" fill="#dcead8"/>
+    <rect x="311" y="236" width="99" height="74" fill="#eef5ec"/>
+    <path d="M206 83l24 46h-48l24-46Z" fill="#2f6a4d"/>
+    <circle cx="206" cy="83" r="14" fill="#2f6a4d"/>
+    <rect x="176" y="137" width="60" height="14" rx="7" fill="#2f6a4d"/>
+  </g>
+  <rect x="318" y="570" width="564" height="24" rx="12" fill="#c1d6c2"/>
+  <rect x="420" y="606" width="360" height="18" rx="9" fill="#d4e4d3"/>
+</svg>

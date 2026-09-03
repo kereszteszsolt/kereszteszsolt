@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Planning Poker project preview</title>
+  <desc id="desc">A calm green project preview with estimation cards and a realtime board.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f4f7ef"/>
+      <stop offset="0.58" stop-color="#e1eadc"/>
+      <stop offset="1" stop-color="#b2c8b8"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="188" y1="124" x2="1012" y2="636" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf5ec"/>
+    </linearGradient>
+    <filter id="softShadow" x="108" y="66" width="984" height="650" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="28" flood-color="#173528" flood-opacity="0.16" stdDeviation="28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#surface)"/>
+  <g filter="url(#softShadow)">
+    <rect x="188" y="124" width="824" height="512" rx="30" fill="url(#panel)" stroke="#b8cdbc" stroke-width="2"/>
+    <rect x="188" y="124" width="824" height="60" rx="30" fill="#d8e6d4"/>
+    <circle cx="232" cy="154" r="9" fill="#4b7a63"/>
+    <circle cx="262" cy="154" r="9" fill="#7aa68c"/>
+    <circle cx="292" cy="154" r="9" fill="#abc6ad"/>
+    <rect x="346" y="143" width="380" height="22" rx="11" fill="#f8fbf6"/>
+  </g>
+  <rect x="278" y="246" width="256" height="292" rx="24" fill="#f8fbf6" stroke="#c1d4c4" stroke-width="2"/>
+  <rect x="318" y="292" width="176" height="18" rx="9" fill="#4b7a63"/>
+  <rect x="318" y="334" width="132" height="16" rx="8" fill="#c4d9c8"/>
+  <rect x="318" y="368" width="152" height="16" rx="8" fill="#d8e6d8"/>
+  <g transform="translate(604 254)">
+    <rect width="96" height="136" rx="16" fill="#4b7a63"/>
+    <text x="48" y="80" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" text-anchor="middle">3</text>
+    <rect x="118" y="28" width="96" height="136" rx="16" fill="#7aa68c"/>
+    <text x="166" y="108" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" text-anchor="middle">5</text>
+    <rect x="236" width="96" height="136" rx="16" fill="#2f6a4d"/>
+    <text x="284" y="80" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" text-anchor="middle">8</text>
+  </g>
+  <rect x="604" y="470" width="330" height="24" rx="12" fill="#c1d6c2"/>
+  <rect x="604" y="514" width="246" height="18" rx="9" fill="#d4e4d3"/>
+</svg>

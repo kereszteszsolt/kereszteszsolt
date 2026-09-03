@@ -58,3 +58,42 @@
     </td>
   </tr>
 </table>
+
+<h2 align="center">Selected Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="top" title="A focus helper that blocks distracting websites so it is easier to return to intentional work.">
+      <a href="https://github.com/kereszteszsolt/PA_Focus_Guard"><img src="project-cards/focus-guard-preview.svg" alt="Focus Guard project preview" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/PA_Focus_Guard">Focus Guard</a></strong><br>
+      <a href="https://github.com/kereszteszsolt/PA_Focus_Guard">GitHub</a>
+    </td>
+    <td width="33.33%" align="center" valign="top" title="A Vue 3 and TypeScript app for generating, solving, and playing Queens-style logic puzzles.">
+      <a href="https://github.com/kereszteszsolt/crown-grid"><img src="project-cards/crown-grid-preview.svg" alt="CrownGrid project preview" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/crown-grid">CrownGrid</a></strong><br>
+      <a href="https://github.com/kereszteszsolt/crown-grid">GitHub</a>
+    </td>
+    <td width="33.33%" align="center" valign="top" title="A real-time Planning Poker app for collaborative team estimation.">
+      <a href="https://github.com/kereszteszsolt/planning-poker"><img src="project-cards/planning-poker-preview.svg" alt="Planning Poker project preview" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/planning-poker">Planning Poker</a></strong><br>
+      <a href="https://github.com/kereszteszsolt/planning-poker">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" align="center" valign="top" title="A local-first Angular chat client for private conversations with Ollama models.">
+      <a href="https://github.com/kereszteszsolt/local-nook-ai"><img src="project-cards/local-nook-ai-preview.svg" alt="Local Nook AI project preview" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/local-nook-ai">Local Nook AI</a></strong><br>
+      <a href="https://github.com/kereszteszsolt/local-nook-ai">GitHub</a>
+    </td>
+    <td width="33.33%" align="center" valign="top" title="A local-first RAG app for grounded conversations with persistent documents and source citations.">
+      <a href="https://github.com/kereszteszsolt/cite-nook-ai"><img src="project-cards/cite-nook-ai-preview.svg" alt="Cite Nook AI project preview" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/cite-nook-ai">Cite Nook AI</a></strong><br>
+      <a href="https://github.com/kereszteszsolt/cite-nook-ai">GitHub</a>
+    </td>
+    <td width="33.33%" align="center" valign="top" title="A classic Minesweeper game built with HTML, CSS, and JavaScript.">
+      <a href="https://github.com/zsoltkeresztes/PP_minesweeper"><img src="project-cards/minesweeper-preview.svg" alt="Minesweeper project preview" width="260"></a><br>
+      <strong><a href="https://github.com/zsoltkeresztes/PP_minesweeper">Minesweeper</a></strong><br>
+      <a href="https://github.com/zsoltkeresztes/PP_minesweeper">GitHub</a>
+    </td>
+  </tr>
+</table>
