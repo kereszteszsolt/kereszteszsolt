@@ -43,14 +43,14 @@
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%" align="center" valign="top" title="A local-first new tab workspace for organizing links into screens, groups, and folders with configurable search, icons, and backgrounds.">
+    <td width="400" align="center" valign="top" title="A local-first new tab workspace for organizing links into screens, groups, and folders with configurable search, icons, and backgrounds.">
       <a href="https://pinusmaximus.com/"><img src="https://pinusmaximus.com/favicon.svg" alt="Pinus Maximus icon" width="128" height="128"></a><br>
       <strong><a href="https://pinusmaximus.com/">Pinus Maximus</a></strong><br><br>
       <a href="https://pinusmaximus.com/">Website</a> ·
       <a href="https://chromewebstore.google.com/detail/pinus-maximus/ljggjjecdefhnidfdggfnekmohnknapd">Chrome Web Store</a> ·
       <a href="https://addons.mozilla.org/en-US/firefox/addon/pinus-maximus/">Firefox Add-ons</a>
     </td>
-    <td width="50%" align="center" valign="top" title="A focus helper that blocks distracting websites with a deliberate message so it is easier to return to intentional work.">
+    <td width="400" align="center" valign="top" title="A focus helper that blocks distracting websites with a deliberate message so it is easier to return to intentional work.">
       <a href="https://chromewebstore.google.com/detail/focus-guard/bdfnblnbjckkhknignkpmckeelfplill?utm_source=ext_app_menu"><img src="icons/focus-guard-icon-rounded.svg" alt="Focus Guard icon" width="128" height="128"></a><br>
       <strong><a href="https://chromewebstore.google.com/detail/focus-guard/bdfnblnbjckkhknignkpmckeelfplill?utm_source=ext_app_menu">Focus Guard</a></strong><br><br>
       <a href="https://chromewebstore.google.com/detail/focus-guard/bdfnblnbjckkhknignkpmckeelfplill?utm_source=ext_app_menu">Chrome Web Store</a> ·
