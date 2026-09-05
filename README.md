@@ -86,8 +86,8 @@
       <strong><a href="https://github.com/kereszteszsolt/cite-nook-ai">Cite Nook AI</a></strong>
     </td>
     <td width="33.33%" align="center" valign="top" title="A classic Minesweeper game built with HTML, CSS, and JavaScript.">
-      <a href="https://github.com/zsoltkeresztes/PP_minesweeper"><img src="project-cards/minesweeper-preview.svg" alt="Minesweeper project preview" width="260"></a><br>
-      <strong><a href="https://github.com/zsoltkeresztes/PP_minesweeper">Minesweeper</a></strong>
+      <a href="https://github.com/kereszteszsolt/clear-field"><img src="project-cards/clear-field-preview.svg" alt="ClearField project preview" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/clear-field">ClearField</a></strong>
     </td>
   </tr>
 </table>

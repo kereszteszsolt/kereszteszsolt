@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
-  <title id="title">Minesweeper project preview</title>
+  <title id="title">ClearField project preview</title>
   <desc id="desc">A calm green project preview with a Minesweeper grid, mine, flag, and numbered cells.</desc>
   <defs>
     <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
