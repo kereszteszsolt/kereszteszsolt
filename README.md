@@ -14,9 +14,9 @@
       <a href="https://x.com/KeresztesZsolti"><img src="icons/x-social-media-logo-icon.png" alt="X (Twitter)" width="48" height="48"></a><br>
       <strong><a href="https://x.com/KeresztesZsolti">X (Twitter): @KeresztesZsolti</a></strong>
     </td>
-    <td width="25%" align="center" valign="top" title="If you find my content or shared code useful, you can support me on my Buy Me a Coffee page. Your support is completely optional and comes with no obligation or reward – it’s simply a way to show appreciation for my work.">
-      <a href="https://www.buymeacoffee.com/kereszteszsolt"><img src="icons/buy-me-coffee-icon.png" alt="Buy Me A Coffee" width="48" height="48"></a><br>
-      <strong><a href="https://www.buymeacoffee.com/kereszteszsolt">Buy Me A Coffee: @kereszteszsolt</a></strong>
+    <td width="25%" align="center" valign="top" title="My code collection and public projects.">
+      <a href="https://kereszteszsolt.net/"><img src="icons/kereszteszsolt-net-icon.svg" alt="kereszteszsolt.net" width="48" height="48"></a><br>
+      <strong><a href="https://kereszteszsolt.net/">kereszteszsolt.net</a></strong>
     </td>
   </tr>
   <tr>
