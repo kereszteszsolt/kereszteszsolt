@@ -15,7 +15,7 @@
       <strong><a href="https://x.com/KeresztesZsolti">X (Twitter): @KeresztesZsolti</a></strong>
     </td>
     <td width="211" align="center" valign="top" title="My code collection and public projects.">
-      <a href="https://kereszteszsolt.net/"><img src="icons/kereszteszsolt-net-icon.svg" alt="kereszteszsolt.net" width="48" height="48"></a><br>
+      <a href="https://kereszteszsolt.net/"><img src="https://kereszteszsolt.net/favicon.svg" alt="kereszteszsolt.net" width="48" height="48"></a><br>
       <strong><a href="https://kereszteszsolt.net/">kereszteszsolt.net</a></strong>
     </td>
   </tr>

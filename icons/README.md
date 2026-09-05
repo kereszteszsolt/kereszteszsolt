@@ -18,7 +18,7 @@ UXWing permits its files to be used in personal, commercial, and client projects
 
 The following artwork was created by Keresztes Zsolt:
 
-- `kereszteszsolt-net-icon.svg` — [kereszteszsolt.net favicon source](https://github.com/kereszteszsolt/kereszteszsolt.github.io/blob/main/favicon.svg)
+- `https://kereszteszsolt.net/favicon.svg` — [kereszteszsolt.net favicon source](https://github.com/kereszteszsolt/kereszteszsolt.github.io/blob/main/favicon.svg)
 - `focus-guard-icon.png` and `focus-guard-icon-rounded.svg` — Focus Guard
 - `https://kereszteszsolt.hu/brand/kzs-logo.png` — Keresztes Zsolt website logo and favicon artwork
 - `https://pinusmaximus.com/favicon.svg` — Pinus Maximus
