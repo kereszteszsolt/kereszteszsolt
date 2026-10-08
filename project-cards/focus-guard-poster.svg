@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" role="img" aria-labelledby="title desc">
+  <title id="title">Focus Guard project poster</title>
+  <desc id="desc">Focus Guard in white on red, above a white shield with green FG initials matching the extension icon.</desc>
+  <rect width="780" height="480" rx="24" fill="#ef3332"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="390" y="88" fill="#ffffff" font-size="62" font-weight="800" letter-spacing="-2">Focus Guard</text>
+    <text x="390" y="132" fill="#fff0e8" font-size="28" font-weight="500">Protect Your Focus, Defend Your Productivity!</text>
+  </g>
+  <path d="M390 167 512 209v92c0 83-50 141-122 181-72-40-122-98-122-181v-92Z" fill="#cf2229" transform="translate(0 -22)"/>
+  <path d="M390 170 499 207v83c0 73-44 124-109 162-65-38-109-89-109-162v-83Z" fill="#ffffff"/>
+  <g fill="#38c600" stroke="#226600" stroke-width="2" stroke-linejoin="round">
+    <path d="M320 229h80v23h-53v26h43v23h-43v43h-27Z"/>
+    <path d="M426 271c22 0 38 9 46 25l-23 13c-5-9-12-13-23-13-19 0-31 15-31 38s12 38 31 38c8 0 15-2 20-6v-17h-22v-23h47v55c-11 10-27 16-45 16-36 0-59-25-59-63s23-63 59-63Z"/>
+  </g>
+</svg>

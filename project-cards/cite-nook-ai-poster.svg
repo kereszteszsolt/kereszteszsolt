@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" role="img" aria-labelledby="title desc">
+  <title id="title">Cite Nook AI project poster</title>
+  <desc id="desc">Cite Nook AI in forest green on warm cream, with an open book, large quotation marks and a numbered source citation.</desc>
+  <rect width="780" height="480" rx="24" fill="#f5f3ed"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="390" y="88" fill="#20453d" font-size="62" font-weight="800" letter-spacing="-2">Cite Nook AI</text>
+    <text x="390" y="132" fill="#315c52" font-size="28" font-weight="500">Ask documents. Verify the sources.</text>
+  </g>
+  <ellipse cx="390" cy="325" rx="188" ry="129" fill="#dcebe6"/>
+  <path d="M222 210c65-23 120-12 168 30 48-42 103-53 168-30v207c-64-20-120-9-168 28-48-37-104-48-168-28Z" fill="#20453d" opacity="0.12" transform="translate(5 7)"/>
+  <path d="M222 198c65-23 120-12 168 30v205c-48-37-104-48-168-28Z" fill="#fffdf8" stroke="#315c52" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M558 198c-65-23-120-12-168 30v205c48-37 104-48 168-28Z" fill="#c5ded4" stroke="#315c52" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M252 271h34v36c0 27-15 45-40 51v-22c12-4 18-11 19-21h-13Zm49 0h34v36c0 27-15 45-40 51v-22c12-4 18-11 19-21h-13Z" fill="#315c52"/>
+  <rect x="418" y="273" width="111" height="84" rx="16" fill="#20453d"/>
+  <text x="473" y="332" fill="#fffdf8" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" text-anchor="middle">[1]</text>
+</svg>
