@@ -90,4 +90,10 @@
       <strong><a href="https://github.com/kereszteszsolt/clear-field">ClearField</a></strong>
     </td>
   </tr>
+  <tr>
+    <td width="33.33%" align="center" valign="top" title="Turn bigger goals into manageable daily steps with AI. Review and adjust your plan before saving it, then track your progress as you go.">
+      <a href="https://github.com/kereszteszsolt/task-flow-ai"><img src="project-cards/task-flow-ai-poster.svg" alt="Task Flow AI project cover with daily steps and progress tracking" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/task-flow-ai">Task Flow AI</a></strong>
+    </td>
+  </tr>
 </table>

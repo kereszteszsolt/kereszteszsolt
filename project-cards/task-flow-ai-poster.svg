@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" role="img" aria-labelledby="title desc">
+  <title id="title">Task Flow AI project poster</title>
+  <desc id="desc">Task Flow AI in indigo on soft lavender, with AI-generated daily tasks for learning TypeScript, two completed steps, and a progress bar.</desc>
+  <rect width="780" height="480" rx="24" fill="#eef0fc"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="390" y="88" fill="#2d347e" font-size="62" font-weight="800" letter-spacing="-2">Task Flow AI</text>
+    <text x="390" y="132" fill="#56658f" font-size="28" font-weight="500">Turn a topic into daily tasks.</text>
+  </g>
+  <ellipse cx="390" cy="322" rx="238" ry="132" fill="#dfe3fa"/>
+  <rect x="184" y="184" width="424" height="260" rx="22" fill="#2d347e" opacity="0.1"/>
+  <rect x="178" y="176" width="424" height="260" rx="22" fill="#ffffff" stroke="#d5dcf5" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="208" y="214" fill="#2d347e" font-size="22" font-weight="700">Learn TypeScript</text>
+    <text x="572" y="214" fill="#56658f" font-size="20" font-weight="600" text-anchor="end">2 / 3</text>
+    <rect x="208" y="230" width="364" height="10" rx="5" fill="#e1e5fa"/>
+    <rect x="208" y="230" width="243" height="10" rx="5" fill="#4855cd"/>
+    <rect x="208" y="266" width="30" height="30" rx="7" fill="#4855cd"/>
+    <path d="m216 281 5 5 10-12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="254" y="290" fill="#2d347e" font-size="26" font-weight="600">Learn the basics</text>
+    <rect x="208" y="320" width="30" height="30" rx="7" fill="#4855cd"/>
+    <path d="m216 335 5 5 10-12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="254" y="344" fill="#2d347e" font-size="26" font-weight="600">Try an example</text>
+    <rect x="208" y="374" width="30" height="30" rx="7" fill="#ffffff" stroke="#b7c0e8" stroke-width="3"/>
+    <text x="254" y="398" fill="#56658f" font-size="26" font-weight="600">Build a small project</text>
+  </g>
+</svg>
