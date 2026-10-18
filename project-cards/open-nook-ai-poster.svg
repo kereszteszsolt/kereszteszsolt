@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" role="img" aria-labelledby="title desc">
+  <title id="title">OpenNook AI project poster</title>
+  <desc id="desc">OpenNook AI in forest green on a pale background, with a chat prompt, an answer containing code and a small diagram, and a conversation history symbol.</desc>
+  <rect width="780" height="480" rx="24" fill="#f7f8f5"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="390" y="88" fill="#202b24" font-size="62" font-weight="800" letter-spacing="-2">OpenNook AI</text>
+    <text x="390" y="132" fill="#376545" font-size="28" font-weight="500">Chat, code, diagrams. One conversation.</text>
+  </g>
+  <ellipse cx="390" cy="320" rx="260" ry="132" fill="#e8efe5"/>
+  <rect x="162" y="182" width="468" height="258" rx="22" fill="#202b24" opacity="0.1"/>
+  <rect x="156" y="174" width="468" height="258" rx="22" fill="#ffffff" stroke="#d9e1d9" stroke-width="3"/>
+  <path d="M196 201a18 18 0 1 1-8 25m-1-28v14h14m13-7v12l8 5" fill="none" stroke="#376545" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M316 194h270a12 12 0 0 1 12 12v37a12 12 0 0 1-12 12h-8v16l-23-16H316a12 12 0 0 1-12-12v-37a12 12 0 0 1 12-12Z" fill="#376545"/>
+  <text x="451" y="234" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" text-anchor="middle">Explain this idea</text>
+  <path d="M193 281h354a12 12 0 0 1 12 12v94a12 12 0 0 1-12 12H220l-27 17v-17a12 12 0 0 1-12-12v-94a12 12 0 0 1 12-12Z" fill="#eef2ec"/>
+  <rect x="203" y="302" width="132" height="74" rx="12" fill="#202b24"/>
+  <path d="m238 324-17 15 17 15m62-30 17 15-17 15m-24-24-14 48" fill="none" stroke="#afd0b2" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M409 339h27m-9-9 10 9-10 9" fill="none" stroke="#376545" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="357" y="315" width="50" height="48" rx="10" fill="#ffffff" stroke="#376545" stroke-width="3"/>
+  <rect x="442" y="315" width="90" height="48" rx="10" fill="#d7e6d3" stroke="#376545" stroke-width="3"/>
+  <path d="m475 339 8 8 17-18" fill="none" stroke="#376545" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

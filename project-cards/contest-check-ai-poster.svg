@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" role="img" aria-labelledby="title desc">
+  <title id="title">ContestCheck AI project poster</title>
+  <desc id="desc">ContestCheck AI in white on dark slate, with a Python solution, per-test Accepted and Wrong Answer verdicts, and PDF and XLSX reports. AI helps draft challenges; defined tests judge solutions.</desc>
+  <rect width="780" height="480" rx="24" fill="#182230"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="390" y="88" fill="#f8fafc" font-size="62" font-weight="800" letter-spacing="-2">ContestCheck AI</text>
+    <text x="390" y="132" fill="#cbd5e1" font-size="28" font-weight="500">Draft challenges. Test Python solutions.</text>
+  </g>
+  <ellipse cx="390" cy="318" rx="270" ry="133" fill="#253549"/>
+  <rect x="128" y="176" width="224" height="256" rx="20" fill="#f0f2f6"/>
+  <path d="M128 232h224" fill="none" stroke="#d7dee8" stroke-width="3"/>
+  <text x="156" y="213" fill="#182230" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Python</text>
+  <circle cx="323" cy="204" r="7" fill="#ff4b4b"/>
+  <path d="m195 266-24 22 24 22m90-44 24 22-24 22m-37-51-18 59" fill="none" stroke="#c93642" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160 351h159m-159 24h112m-112 24h140" fill="none" stroke="#c2cedb" stroke-width="10" stroke-linecap="round"/>
+  <path d="M363 304h22m-10-11 11 11-11 11" fill="none" stroke="#cbd5e1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="398" y="202" width="260" height="208" rx="20" fill="#0e1117" opacity="0.3"/>
+  <rect x="392" y="194" width="260" height="208" rx="20" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="416" y="234" fill="#182230" font-size="25" font-weight="700">Test results</text>
+    <path d="M416 252h212" fill="none" stroke="#e1e6ee" stroke-width="3"/>
+    <circle cx="433" cy="283" r="17" fill="#dcebe3"/>
+    <path d="m425 283 6 6 11-13" fill="none" stroke="#315e49" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="464" y="292" fill="#315e49" font-size="24" font-weight="600">Accepted</text>
+    <circle cx="433" cy="332" r="17" fill="#fbe5e5"/>
+    <path d="m427 326 12 12m0-12-12 12" fill="none" stroke="#b93240" stroke-width="3" stroke-linecap="round"/>
+    <text x="464" y="341" fill="#b93240" font-size="23" font-weight="600">Wrong answer</text>
+    <text x="522" y="379" fill="#53647a" font-size="21" font-weight="700" text-anchor="middle">PDF / XLSX</text>
+  </g>
+</svg>

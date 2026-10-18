@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" role="img" aria-labelledby="title desc">
+  <title id="title">TypeNudge project poster</title>
+  <desc id="desc">TypeNudge in sage green on warm paper, with a text editor showing a muted next-word suggestion, a caret, and a Tab key to accept a word. Predictions work offline.</desc>
+  <rect width="780" height="480" rx="24" fill="#f6f5f1"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="390" y="88" fill="#29362f" font-size="62" font-weight="800" letter-spacing="-2">TypeNudge</text>
+    <text x="390" y="132" fill="#315e49" font-size="28" font-weight="500">Your words. A little nudge. All offline.</text>
+  </g>
+  <ellipse cx="390" cy="320" rx="260" ry="130" fill="#e4eadd"/>
+  <rect x="156" y="184" width="480" height="252" rx="20" fill="#29362f" opacity="0.1"/>
+  <rect x="150" y="176" width="480" height="252" rx="20" fill="#ffffff" stroke="#d1d7cf" stroke-width="3"/>
+  <path d="M150 232h480" fill="none" stroke="#e0e3db" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="182" y="212" fill="#315e49" font-size="23" font-weight="700">My writing</text>
+    <circle cx="534" cy="204" r="5" fill="#315e49"/>
+    <text x="548" y="211" fill="#626d64" font-size="20" font-weight="600">Offline</text>
+    <text x="182" y="286" fill="#29362f" font-size="32" font-weight="600">Write your</text>
+    <text x="366" y="286" fill="#7f8a83" font-size="32">next idea.</text>
+    <path d="M354 254v40" fill="none" stroke="#315e49" stroke-width="3" stroke-linecap="round"/>
+    <path d="M182 316h344m-344 20h230" fill="none" stroke="#e4eadd" stroke-width="9" stroke-linecap="round"/>
+    <rect x="302" y="363" width="62" height="38" rx="8" fill="#d1d7cf"/>
+    <rect x="302" y="359" width="62" height="38" rx="8" fill="#f6f5f1" stroke="#d1d7cf" stroke-width="2"/>
+    <text x="333" y="385" fill="#315e49" font-size="23" font-weight="700" text-anchor="middle">Tab</text>
+    <text x="380" y="386" fill="#315e49" font-size="23" font-weight="600">Accept a word</text>
+  </g>
+</svg>

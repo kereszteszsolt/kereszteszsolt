@@ -11,6 +11,10 @@ The Selected Projects cards use static SVG mini posters. Each cover has a large 
 | [`cite-nook-ai-poster.svg`](cite-nook-ai-poster.svg) | [PNG](cite-nook-ai-poster.png) | CiteNook cream and forest green, an open book, quotation marks, and a source citation |
 | [`clear-field-poster.svg`](clear-field-poster.svg) | [PNG](clear-field-poster.png) | ClearField navy and mint, numbered cells, a yellow flag, and a mine |
 | [`task-flow-ai-poster.svg`](task-flow-ai-poster.svg) | [PNG](task-flow-ai-poster.png) | Task Flow AI indigo and lavender, generated daily learning tasks, checkmarks, and a progress bar |
+| [`type-nudge-poster.svg`](type-nudge-poster.svg) | [PNG](type-nudge-poster.png) | TypeNudge sage and warm paper, an offline editor, muted word suggestions, and a Tab key |
+| [`story-check-ai-poster.svg`](story-check-ai-poster.svg) | [PNG](story-check-ai-poster.png) | StoryCheck deep teal and cream, a user story, acceptance criteria, questions, and test cases |
+| [`open-nook-ai-poster.svg`](open-nook-ai-poster.svg) | [PNG](open-nook-ai-poster.png) | OpenNook forest green and pale backgrounds, chat bubbles, code, a diagram, and conversation history |
+| [`contest-check-ai-poster.svg`](contest-check-ai-poster.svg) | [PNG](contest-check-ai-poster.png) | Dark slate and Streamlit coral, a Python solution, test verdicts, and PDF/XLSX reports |
 
 Each PNG export is 1280 × 640 pixels, with a solid background and a file size below 1 MB, following [GitHub's social preview guidance](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/customizing-your-repositorys-social-media-preview). The SVG artwork keeps its proportions; its background extends horizontally to fill the wider image. Re-export the matching PNG after editing an SVG.
 

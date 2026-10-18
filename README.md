@@ -95,5 +95,23 @@
       <a href="https://github.com/kereszteszsolt/task-flow-ai"><img src="project-cards/task-flow-ai-poster.svg" alt="Task Flow AI project cover with daily steps and progress tracking" width="260"></a><br>
       <strong><a href="https://github.com/kereszteszsolt/task-flow-ai">Task Flow AI</a></strong>
     </td>
+    <td width="33.33%" align="center" valign="top" title="An offline desktop writing app with subtle next-word suggestions from local text sources.">
+      <a href="https://github.com/kereszteszsolt/type-nudge"><img src="project-cards/type-nudge-poster.svg" alt="TypeNudge project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/type-nudge">TypeNudge</a></strong>
+    </td>
+    <td width="33.33%" align="center" valign="top" title="Review user stories with AI-generated acceptance criteria, clarification questions, and test cases.">
+      <a href="https://github.com/kereszteszsolt/story-check-ai"><img src="project-cards/story-check-ai-poster.svg" alt="StoryCheck AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/story-check-ai">StoryCheck AI</a></strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" align="center" valign="top" title="A self-hosted AI chat app with OpenRouter models, rich answers, diagrams, and saved conversations.">
+      <a href="https://github.com/kereszteszsolt/open-nook-ai"><img src="project-cards/open-nook-ai-poster.svg" alt="OpenNook AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/open-nook-ai">OpenNook AI</a></strong>
+    </td>
+    <td width="33.33%" align="center" valign="top" title="Draft programming challenges with AI, evaluate Python submissions against defined tests, and export PDF/XLSX reports.">
+      <a href="https://github.com/kereszteszsolt/contest-check-ai"><img src="project-cards/contest-check-ai-poster.svg" alt="ContestCheck AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/contest-check-ai">ContestCheck AI</a></strong>
+    </td>
   </tr>
 </table>
