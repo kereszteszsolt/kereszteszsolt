@@ -7,10 +7,10 @@ The Selected Projects cards use static SVG mini posters. Each cover has a large 
 | [`focus-guard-poster.svg`](focus-guard-poster.svg) | [PNG](focus-guard-poster.png) | Red, white shield, green FG initials from the existing extension icon |
 | [`crown-grid-poster.svg`](crown-grid-poster.svg) | [PNG](crown-grid-poster.png) | Warm cream, the game's colored regions, and queen markers |
 | [`point-flip-poster.svg`](point-flip-poster.svg) | [PNG](point-flip-poster.png) | PointFlip in white and mint on blue, with the original estimation cards numbered 3, 5, 8, and ? |
-| [`local-nook-ai-poster.svg`](local-nook-ai-poster.svg) | [PNG](local-nook-ai-poster.png) | LocalNook terracotta, a laptop, and two readable chat messages |
-| [`cite-nook-ai-poster.svg`](cite-nook-ai-poster.svg) | [PNG](cite-nook-ai-poster.png) | CiteNook cream and forest green, an open book, quotation marks, and a source citation |
+| [`localnook-ai-poster.svg`](localnook-ai-poster.svg) | [PNG](localnook-ai-poster.png) | LocalNook terracotta, a laptop, and two readable chat messages |
+| [`citenook-ai-poster.svg`](citenook-ai-poster.svg) | [PNG](citenook-ai-poster.png) | CiteNook cream and forest green, an open book, quotation marks, and a source citation |
 | [`clear-field-poster.svg`](clear-field-poster.svg) | [PNG](clear-field-poster.png) | ClearField navy and mint, numbered cells, a yellow flag, and a mine |
-| [`task-flow-ai-poster.svg`](task-flow-ai-poster.svg) | [PNG](task-flow-ai-poster.png) | Rich indigo, three colorful daily task cards rising along a dotted path, and a golden goal star |
+| [`stoneplan-ai-poster.svg`](stoneplan-ai-poster.svg) | [PNG](stoneplan-ai-poster.png) | Rich indigo, three colorful daily task cards rising along a dotted path, and a golden goal star |
 | [`type-nudge-poster.svg`](type-nudge-poster.svg) | [PNG](type-nudge-poster.png) | Sage and forest green, a vintage typewriter with ghost-text suggestions, and floating Aa and Tab keys |
 | [`story-check-ai-poster.svg`](story-check-ai-poster.svg) | [PNG](story-check-ai-poster.png) | Warm cream and teal, a tilted story sheet, a golden question bubble, and a magnifying glass revealing a checkmark |
 | [`open-nook-ai-poster.svg`](open-nook-ai-poster.svg) | [PNG](open-nook-ai-poster.png) | Deep forest green, floating cream and mint speech bubbles, bold code brackets, and a branching diagram |
@@ -20,6 +20,6 @@ Each PNG export is 1280 × 640 pixels, with a solid background and a file size b
 
 The artwork uses inline vector shapes and system-font text. Each file includes an accessible title and description and needs no JavaScript, animation, embedded bitmap, or external resource. Edit the SVG directly and check it at 260 px width when updating a cover.
 
-All six original `*-preview.svg` files remain unchanged as alternate artwork. The original Focus Guard, CrownGrid, Planning Poker, Local Nook AI, and Cite Nook AI previews follow the artwork published on [kereszteszsolt.hu](https://kereszteszsolt.hu/). The original ClearField preview extends that visual system.
+All six original `*-preview.svg` files remain unchanged as alternate artwork. The original Focus Guard, CrownGrid, Planning Poker, LocalNook AI, and CiteNook AI previews follow the artwork published on [kereszteszsolt.hu](https://kereszteszsolt.hu/). The original ClearField preview extends that visual system.
 
 Copyright © 2026 Keresztes Zsolt. All rights reserved.

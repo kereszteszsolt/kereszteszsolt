@@ -68,8 +68,8 @@
       <strong><a href="https://github.com/kereszteszsolt/PA_Focus_Guard">Focus Guard</a></strong>
     </td>
     <td width="33.33%" align="center" valign="top" title="A local-first RAG app for grounded conversations with persistent documents and source citations.">
-      <a href="https://github.com/kereszteszsolt/cite-nook-ai"><img src="project-cards/cite-nook-ai-poster.svg" alt="Cite Nook AI project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/cite-nook-ai">Cite Nook AI</a></strong>
+      <a href="https://github.com/kereszteszsolt/cite-nook-ai"><img src="project-cards/citenook-ai-poster.svg" alt="CiteNook AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/cite-nook-ai">CiteNook AI</a></strong>
     </td>
     <td width="33.33%" align="center" valign="top" title="Draft programming challenges with AI, evaluate Python submissions against defined tests, and export PDF/XLSX reports.">
       <a href="https://github.com/kereszteszsolt/contest-check-ai"><img src="project-cards/contest-check-ai-poster.svg" alt="ContestCheck AI project poster" width="260"></a><br>
@@ -92,16 +92,16 @@
   </tr>
   <tr>
     <td width="33.33%" align="center" valign="top" title="Turn bigger goals into manageable daily steps with AI. Review and adjust your plan before saving it, then track your progress as you go.">
-      <a href="https://github.com/kereszteszsolt/task-flow-ai"><img src="project-cards/task-flow-ai-poster.svg" alt="Task Flow AI project cover with daily steps and progress tracking" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/task-flow-ai">Task Flow AI</a></strong>
+      <a href="https://github.com/kereszteszsolt/task-flow-ai"><img src="project-cards/stoneplan-ai-poster.svg" alt="StonePlan AI project cover with daily steps and progress tracking" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/task-flow-ai">StonePlan AI</a></strong>
     </td>
     <td width="33.33%" align="center" valign="top" title="Real-time Planning Poker for Agile Teams. Estimate. Flip. Align.">
       <a href="https://github.com/kereszteszsolt/point-flip"><img src="project-cards/point-flip-poster.svg" alt="PointFlip project poster" width="260"></a><br>
       <strong><a href="https://github.com/kereszteszsolt/point-flip">PointFlip</a></strong>
     </td>
     <td width="33.33%" align="center" valign="top" title="A local-first Angular chat client for private conversations with Ollama models.">
-      <a href="https://github.com/kereszteszsolt/local-nook-ai"><img src="project-cards/local-nook-ai-poster.svg" alt="Local Nook AI project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/local-nook-ai">Local Nook AI</a></strong>
+      <a href="https://github.com/kereszteszsolt/local-nook-ai"><img src="project-cards/localnook-ai-poster.svg" alt="LocalNook AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/local-nook-ai">LocalNook AI</a></strong>
     </td>
   </tr>
   <tr>
