@@ -67,27 +67,27 @@
       <a href="https://github.com/kereszteszsolt/PA_Focus_Guard"><img src="project-cards/focus-guard-poster.svg" alt="Focus Guard project poster" width="260"></a><br>
       <strong><a href="https://github.com/kereszteszsolt/PA_Focus_Guard">Focus Guard</a></strong>
     </td>
-    <td width="33.33%" align="center" valign="top" title="A Vue 3 and TypeScript app for generating, solving, and playing Queens-style logic puzzles.">
-      <a href="https://github.com/kereszteszsolt/crown-grid"><img src="project-cards/crown-grid-poster.svg" alt="CrownGrid project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/crown-grid">CrownGrid</a></strong>
-    </td>
-    <td width="33.33%" align="center" valign="top" title="A real-time Planning Poker app for collaborative team estimation.">
-      <a href="https://github.com/kereszteszsolt/planning-poker"><img src="project-cards/planning-poker-poster.svg" alt="Planning Poker project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/planning-poker">Planning Poker</a></strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.33%" align="center" valign="top" title="A local-first Angular chat client for private conversations with Ollama models.">
-      <a href="https://github.com/kereszteszsolt/local-nook-ai"><img src="project-cards/local-nook-ai-poster.svg" alt="Local Nook AI project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/local-nook-ai">Local Nook AI</a></strong>
-    </td>
     <td width="33.33%" align="center" valign="top" title="A local-first RAG app for grounded conversations with persistent documents and source citations.">
       <a href="https://github.com/kereszteszsolt/cite-nook-ai"><img src="project-cards/cite-nook-ai-poster.svg" alt="Cite Nook AI project poster" width="260"></a><br>
       <strong><a href="https://github.com/kereszteszsolt/cite-nook-ai">Cite Nook AI</a></strong>
     </td>
-    <td width="33.33%" align="center" valign="top" title="A classic Minesweeper game built with HTML, CSS, and JavaScript.">
-      <a href="https://github.com/kereszteszsolt/clear-field"><img src="project-cards/clear-field-poster.svg" alt="ClearField project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/clear-field">ClearField</a></strong>
+    <td width="33.33%" align="center" valign="top" title="Draft programming challenges with AI, evaluate Python submissions against defined tests, and export PDF/XLSX reports.">
+      <a href="https://github.com/kereszteszsolt/contest-check-ai"><img src="project-cards/contest-check-ai-poster.svg" alt="ContestCheck AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/contest-check-ai">ContestCheck AI</a></strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.33%" align="center" valign="top" title="Review user stories with AI-generated acceptance criteria, clarification questions, and test cases.">
+      <a href="https://github.com/kereszteszsolt/story-check-ai"><img src="project-cards/story-check-ai-poster.svg" alt="StoryCheck AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/story-check-ai">StoryCheck AI</a></strong>
+    </td>
+    <td width="33.33%" align="center" valign="top" title="A self-hosted AI chat app with OpenRouter models, rich answers, diagrams, and saved conversations.">
+      <a href="https://github.com/kereszteszsolt/open-nook-ai"><img src="project-cards/open-nook-ai-poster.svg" alt="OpenNook AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/open-nook-ai">OpenNook AI</a></strong>
+    </td>
+    <td width="33.33%" align="center" valign="top" title="An offline desktop writing app with subtle next-word suggestions from local text sources.">
+      <a href="https://github.com/kereszteszsolt/type-nudge"><img src="project-cards/type-nudge-poster.svg" alt="TypeNudge project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/type-nudge">TypeNudge</a></strong>
     </td>
   </tr>
   <tr>
@@ -95,23 +95,23 @@
       <a href="https://github.com/kereszteszsolt/task-flow-ai"><img src="project-cards/task-flow-ai-poster.svg" alt="Task Flow AI project cover with daily steps and progress tracking" width="260"></a><br>
       <strong><a href="https://github.com/kereszteszsolt/task-flow-ai">Task Flow AI</a></strong>
     </td>
-    <td width="33.33%" align="center" valign="top" title="An offline desktop writing app with subtle next-word suggestions from local text sources.">
-      <a href="https://github.com/kereszteszsolt/type-nudge"><img src="project-cards/type-nudge-poster.svg" alt="TypeNudge project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/type-nudge">TypeNudge</a></strong>
+    <td width="33.33%" align="center" valign="top" title="A real-time Planning Poker app for collaborative team estimation.">
+      <a href="https://github.com/kereszteszsolt/planning-poker"><img src="project-cards/planning-poker-poster.svg" alt="Planning Poker project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/planning-poker">Planning Poker</a></strong>
     </td>
-    <td width="33.33%" align="center" valign="top" title="Review user stories with AI-generated acceptance criteria, clarification questions, and test cases.">
-      <a href="https://github.com/kereszteszsolt/story-check-ai"><img src="project-cards/story-check-ai-poster.svg" alt="StoryCheck AI project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/story-check-ai">StoryCheck AI</a></strong>
+    <td width="33.33%" align="center" valign="top" title="A local-first Angular chat client for private conversations with Ollama models.">
+      <a href="https://github.com/kereszteszsolt/local-nook-ai"><img src="project-cards/local-nook-ai-poster.svg" alt="Local Nook AI project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/local-nook-ai">Local Nook AI</a></strong>
     </td>
   </tr>
   <tr>
-    <td width="33.33%" align="center" valign="top" title="A self-hosted AI chat app with OpenRouter models, rich answers, diagrams, and saved conversations.">
-      <a href="https://github.com/kereszteszsolt/open-nook-ai"><img src="project-cards/open-nook-ai-poster.svg" alt="OpenNook AI project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/open-nook-ai">OpenNook AI</a></strong>
+    <td width="33.33%" align="center" valign="top" title="A Vue 3 and TypeScript app for generating, solving, and playing Queens-style logic puzzles.">
+      <a href="https://github.com/kereszteszsolt/crown-grid"><img src="project-cards/crown-grid-poster.svg" alt="CrownGrid project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/crown-grid">CrownGrid</a></strong>
     </td>
-    <td width="33.33%" align="center" valign="top" title="Draft programming challenges with AI, evaluate Python submissions against defined tests, and export PDF/XLSX reports.">
-      <a href="https://github.com/kereszteszsolt/contest-check-ai"><img src="project-cards/contest-check-ai-poster.svg" alt="ContestCheck AI project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/contest-check-ai">ContestCheck AI</a></strong>
+    <td width="33.33%" align="center" valign="top" title="A classic Minesweeper game built with HTML, CSS, and JavaScript.">
+      <a href="https://github.com/kereszteszsolt/clear-field"><img src="project-cards/clear-field-poster.svg" alt="ClearField project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/clear-field">ClearField</a></strong>
     </td>
   </tr>
 </table>
