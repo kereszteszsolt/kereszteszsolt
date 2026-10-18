@@ -95,9 +95,9 @@
       <a href="https://github.com/kereszteszsolt/task-flow-ai"><img src="project-cards/task-flow-ai-poster.svg" alt="Task Flow AI project cover with daily steps and progress tracking" width="260"></a><br>
       <strong><a href="https://github.com/kereszteszsolt/task-flow-ai">Task Flow AI</a></strong>
     </td>
-    <td width="33.33%" align="center" valign="top" title="A real-time Planning Poker app for collaborative team estimation.">
-      <a href="https://github.com/kereszteszsolt/planning-poker"><img src="project-cards/planning-poker-poster.svg" alt="Planning Poker project poster" width="260"></a><br>
-      <strong><a href="https://github.com/kereszteszsolt/planning-poker">Planning Poker</a></strong>
+    <td width="33.33%" align="center" valign="top" title="Real-time Planning Poker for Agile Teams. Estimate. Flip. Align.">
+      <a href="https://github.com/kereszteszsolt/point-flip"><img src="project-cards/point-flip-poster.svg" alt="PointFlip project poster" width="260"></a><br>
+      <strong><a href="https://github.com/kereszteszsolt/point-flip">PointFlip</a></strong>
     </td>
     <td width="33.33%" align="center" valign="top" title="A local-first Angular chat client for private conversations with Ollama models.">
       <a href="https://github.com/kereszteszsolt/local-nook-ai"><img src="project-cards/local-nook-ai-poster.svg" alt="Local Nook AI project poster" width="260"></a><br>

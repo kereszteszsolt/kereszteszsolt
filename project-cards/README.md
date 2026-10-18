@@ -6,7 +6,7 @@ The Selected Projects cards use static SVG mini posters. Each cover has a large 
 | --- | --- | --- |
 | [`focus-guard-poster.svg`](focus-guard-poster.svg) | [PNG](focus-guard-poster.png) | Red, white shield, green FG initials from the existing extension icon |
 | [`crown-grid-poster.svg`](crown-grid-poster.svg) | [PNG](crown-grid-poster.png) | Warm cream, the game's colored regions, and queen markers |
-| [`planning-poker-poster.svg`](planning-poker-poster.svg) | [PNG](planning-poker-poster.png) | The application's blue and estimation cards numbered 3, 5, 8, and ? |
+| [`point-flip-poster.svg`](point-flip-poster.svg) | [PNG](point-flip-poster.png) | PointFlip in white and mint on blue, with the original estimation cards numbered 3, 5, 8, and ? |
 | [`local-nook-ai-poster.svg`](local-nook-ai-poster.svg) | [PNG](local-nook-ai-poster.png) | LocalNook terracotta, a laptop, and two readable chat messages |
 | [`cite-nook-ai-poster.svg`](cite-nook-ai-poster.svg) | [PNG](cite-nook-ai-poster.png) | CiteNook cream and forest green, an open book, quotation marks, and a source citation |
 | [`clear-field-poster.svg`](clear-field-poster.svg) | [PNG](clear-field-poster.png) | ClearField navy and mint, numbered cells, a yellow flag, and a mine |
