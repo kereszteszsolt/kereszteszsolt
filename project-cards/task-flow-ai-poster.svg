@@ -1,26 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" role="img" aria-labelledby="title desc">
   <title id="title">Task Flow AI project poster</title>
-  <desc id="desc">Task Flow AI in indigo on soft lavender, with AI-generated daily tasks for learning TypeScript, two completed steps, and a progress bar.</desc>
-  <rect width="780" height="480" rx="24" fill="#eef0fc"/>
+  <desc id="desc">Three colorful daily task cards rise along a winding path on a rich indigo background. Learn and Try are checked off, while Build leads toward a golden star.</desc>
+  <rect width="780" height="480" rx="24" fill="#4538a7"/>
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-    <text x="390" y="88" fill="#2d347e" font-size="62" font-weight="800" letter-spacing="-2">Task Flow AI</text>
-    <text x="390" y="132" fill="#56658f" font-size="28" font-weight="500">Turn a topic into daily tasks.</text>
+    <text x="390" y="88" fill="#fff9ef" font-size="62" font-weight="800" letter-spacing="-2">Task Flow AI</text>
+    <text x="390" y="132" fill="#e2dcff" font-size="28" font-weight="500">Turn a topic into daily tasks.</text>
   </g>
-  <ellipse cx="390" cy="322" rx="238" ry="132" fill="#dfe3fa"/>
-  <rect x="184" y="184" width="424" height="260" rx="22" fill="#2d347e" opacity="0.1"/>
-  <rect x="178" y="176" width="424" height="260" rx="22" fill="#ffffff" stroke="#d5dcf5" stroke-width="3"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="208" y="214" fill="#2d347e" font-size="22" font-weight="700">Learn TypeScript</text>
-    <text x="572" y="214" fill="#56658f" font-size="20" font-weight="600" text-anchor="end">2 / 3</text>
-    <rect x="208" y="230" width="364" height="10" rx="5" fill="#e1e5fa"/>
-    <rect x="208" y="230" width="243" height="10" rx="5" fill="#4855cd"/>
-    <rect x="208" y="266" width="30" height="30" rx="7" fill="#4855cd"/>
-    <path d="m216 281 5 5 10-12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="254" y="290" fill="#2d347e" font-size="26" font-weight="600">Learn the basics</text>
-    <rect x="208" y="320" width="30" height="30" rx="7" fill="#4855cd"/>
-    <path d="m216 335 5 5 10-12" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="254" y="344" fill="#2d347e" font-size="26" font-weight="600">Try an example</text>
-    <rect x="208" y="374" width="30" height="30" rx="7" fill="#ffffff" stroke="#b7c0e8" stroke-width="3"/>
-    <text x="254" y="398" fill="#56658f" font-size="26" font-weight="600">Build a small project</text>
+  <path d="M157 417c81 56 165-12 183-71s62-78 114-55 108 17 146-66" fill="none" stroke="#9d8ae0" stroke-width="9" stroke-linecap="round" stroke-dasharray="5 18"/>
+  <g transform="rotate(-12 239 351)">
+    <rect x="178" y="293" width="136" height="138" rx="18" fill="#281e74" opacity="0.4"/>
+    <rect x="171" y="283" width="136" height="138" rx="18" fill="#fff3ce"/>
+    <circle cx="191" cy="292" r="20" fill="#f7c85a"/>
+    <text x="191" y="300" fill="#4538a7" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="middle">1</text>
+    <path d="m210 337 19 20 36-43" fill="none" stroke="#4538a7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="239" y="397" fill="#4538a7" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" text-anchor="middle">Learn</text>
   </g>
+  <g transform="rotate(-2 391 300)">
+    <rect x="330" y="242" width="136" height="138" rx="18" fill="#281e74" opacity="0.4"/>
+    <rect x="323" y="232" width="136" height="138" rx="18" fill="#d8cdff"/>
+    <circle cx="343" cy="241" r="20" fill="#ad94ef"/>
+    <text x="343" y="249" fill="#352779" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="middle">2</text>
+    <path d="m362 286 19 20 36-43" fill="none" stroke="#4538a7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="391" y="346" fill="#352779" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" text-anchor="middle">Try</text>
+  </g>
+  <g transform="rotate(10 543 258)">
+    <rect x="482" y="200" width="136" height="138" rx="18" fill="#281e74" opacity="0.4"/>
+    <rect x="475" y="190" width="136" height="138" rx="18" fill="#c5efd6"/>
+    <circle cx="495" cy="199" r="20" fill="#8cd3b0"/>
+    <text x="495" y="207" fill="#254e48" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="middle">3</text>
+    <path d="m522 224-18 17 18 17m42-34 18 17-18 17m-15-37-12 40" fill="none" stroke="#254e48" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="543" y="304" fill="#254e48" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" text-anchor="middle">Build</text>
+  </g>
+  <path d="m639 317 10 22 24 3-18 16 5 24-21-12-21 12 5-24-18-16 24-3Z" fill="#f7c85a"/>
+  <path d="M158 230v24m-12-12h24m466-58v16m-8-8h16" fill="none" stroke="#d8cdff" stroke-width="5" stroke-linecap="round"/>
 </svg>

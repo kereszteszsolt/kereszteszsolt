@@ -1,30 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 480" role="img" aria-labelledby="title desc">
   <title id="title">ContestCheck AI project poster</title>
-  <desc id="desc">ContestCheck AI in white on dark slate, with a Python solution, per-test Accepted and Wrong Answer verdicts, and PDF and XLSX reports. AI helps draft challenges; defined tests judge solutions.</desc>
-  <rect width="780" height="480" rx="24" fill="#182230"/>
+  <desc id="desc">A Python solution on a tilted sheet meets a coral rubber stamp. A green accepted check and a smaller red wrong-answer marker represent test verdicts, with PDF and XLSX reports below.</desc>
+  <rect width="780" height="480" rx="24" fill="#fff0dc"/>
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-    <text x="390" y="88" fill="#f8fafc" font-size="62" font-weight="800" letter-spacing="-2">ContestCheck AI</text>
-    <text x="390" y="132" fill="#cbd5e1" font-size="28" font-weight="500">Draft challenges. Test Python solutions.</text>
+    <text x="390" y="88" fill="#63384b" font-size="62" font-weight="800" letter-spacing="-2">ContestCheck AI</text>
+    <text x="390" y="132" fill="#8a5e5a" font-size="28" font-weight="500">Draft challenges. Test code solutions.</text>
   </g>
-  <ellipse cx="390" cy="318" rx="270" ry="133" fill="#253549"/>
-  <rect x="128" y="176" width="224" height="256" rx="20" fill="#f0f2f6"/>
-  <path d="M128 232h224" fill="none" stroke="#d7dee8" stroke-width="3"/>
-  <text x="156" y="213" fill="#182230" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Python</text>
-  <circle cx="323" cy="204" r="7" fill="#ff4b4b"/>
-  <path d="m195 266-24 22 24 22m90-44 24 22-24 22m-37-51-18 59" fill="none" stroke="#c93642" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M160 351h159m-159 24h112m-112 24h140" fill="none" stroke="#c2cedb" stroke-width="10" stroke-linecap="round"/>
-  <path d="M363 304h22m-10-11 11 11-11 11" fill="none" stroke="#cbd5e1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="398" y="202" width="260" height="208" rx="20" fill="#0e1117" opacity="0.3"/>
-  <rect x="392" y="194" width="260" height="208" rx="20" fill="#ffffff"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="416" y="234" fill="#182230" font-size="25" font-weight="700">Test results</text>
-    <path d="M416 252h212" fill="none" stroke="#e1e6ee" stroke-width="3"/>
-    <circle cx="433" cy="283" r="17" fill="#dcebe3"/>
-    <path d="m425 283 6 6 11-13" fill="none" stroke="#315e49" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="464" y="292" fill="#315e49" font-size="24" font-weight="600">Accepted</text>
-    <circle cx="433" cy="332" r="17" fill="#fbe5e5"/>
-    <path d="m427 326 12 12m0-12-12 12" fill="none" stroke="#b93240" stroke-width="3" stroke-linecap="round"/>
-    <text x="464" y="341" fill="#b93240" font-size="23" font-weight="600">Wrong answer</text>
-    <text x="522" y="379" fill="#53647a" font-size="21" font-weight="700" text-anchor="middle">PDF / XLSX</text>
+  <ellipse cx="392" cy="330" rx="231" ry="113" fill="#f5ddbf"/>
+  <g transform="rotate(-10 335 302)">
+    <rect x="241" y="194" width="202" height="236" rx="17" fill="#ddc5ae"/>
+    <path d="M251 185h141l44 44v175a17 17 0 0 1-17 17H251a17 17 0 0 1-17-17V202a17 17 0 0 1 17-17Z" fill="#fffdf6" stroke="#dfcfc0" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M392 185v44h44" fill="#f2decc" stroke="#dfcfc0" stroke-width="3" stroke-linejoin="round"/>
+    <text x="264" y="233" fill="#63384b" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700">.py</text>
+    <path d="m293 268-25 23 25 23m81-46 25 23-25 23m-26-52-26 59" fill="none" stroke="#d25c57" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M264 355h142m-142 24h105" fill="none" stroke="#dfcfc0" stroke-width="10" stroke-linecap="round"/>
   </g>
+  <g transform="rotate(15 530 257)">
+    <rect x="497" y="176" width="66" height="83" rx="28" fill="#63384b"/>
+    <path d="M516 249h28v42h-28Z" fill="#63384b"/>
+    <path d="M481 283h98l29 35H452Z" fill="#e17b6c" stroke="#63384b" stroke-width="4" stroke-linejoin="round"/>
+    <rect x="449" y="314" width="162" height="18" rx="7" fill="#63384b"/>
+    <path d="M511 190c6-6 15-8 24-6" fill="none" stroke="#9b6875" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="rotate(-12 506 372)">
+    <circle cx="506" cy="372" r="48" fill="#dcead5" stroke="#468468" stroke-width="5"/>
+    <circle cx="506" cy="372" r="37" fill="none" stroke="#468468" stroke-width="2" stroke-dasharray="3 5"/>
+    <path d="m486 372 14 15 27-31" fill="none" stroke="#347457" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="600" cy="389" r="22" fill="#f4c6bb"/>
+  <path d="m592 381 16 16m0-16-16 16" fill="none" stroke="#a84d50" stroke-width="4" stroke-linecap="round"/>
+  <text x="347" y="449" fill="#8a5e5a" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle">PDF / XLSX</text>
+  <path d="M177 218v24m-12-12h24m448 125v16m-8-8h16" fill="none" stroke="#d3a27c" stroke-width="5" stroke-linecap="round"/>
 </svg>
